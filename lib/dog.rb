@@ -1,7 +1,8 @@
 class Dog
   @@all = []
 
-  def initialize(name)
+  def initialize(self)
+
 
 
   def self.clear_all
